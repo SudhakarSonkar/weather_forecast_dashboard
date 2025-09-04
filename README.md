@@ -16,8 +16,14 @@ You can visualize **temperature trends** or view **sky conditions** (clear, clou
 ---
 
 ## 🛠 Tech Stack
-- [Streamlit](https://streamlit.io/) – for building the web app
-- [Plotly Express](https://plotly.com/python/plotly-express/) – for data visualization
-- [Requests / API](https://openweathermap.org/forecast5) – (in backend) to fetch forecast data
+- [Streamlit](https://streamlit.io/) – for building the web app  
+- [Plotly Express](https://plotly.com/python/plotly-express/) – for data visualization  
+- [Requests / API](https://openweathermap.org/forecast5) – (in backend) to fetch forecast data  
+
+---
+
+## 🌍 Live Demo
+Try it out instantly here:  
+👉 [Weather Forecast App Live](https://sudhakarsonkar-weather-forecast-dashboard-main-root-ouwcpq.streamlit.app/)  
 
 ---
